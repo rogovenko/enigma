@@ -1,6 +1,6 @@
 ## enigma
 
-Here's a simple digital immitation of enigma machine...
+Here's a simple digital imitation of enigma machine...
 
 Try it here: https://enigma-three.herokuapp.com
 
